@@ -4,22 +4,22 @@
     "categoryDescription": "Our top picks for powerful, ready-to-use agents.",
     "playbooks": [
       {
-        "id": "static-agent-001",
-        "title": "Travel Planner Agent",
-        "description": "An agent that helps you plan your next trip.",
-        "author": "Velocity Boost Team",
-        "playbookUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/playbooks/agents/travel_planner.json"
+        "id": "openai-agent-001",
+        "title": "Open AI agent",
+        "description": "A chat agent for OpenAI",
+        "author": "Team Ajayji",
+        "playbookUrl": "https://raw.githubusercontent.com/teamajayji/ajayji-marketplace/refs/heads/main/playbooks/OpenAIDefault_f2dba1c3-d9f8-4ade-8eb2-f1f2dab6b39a.json"
       }
     ]
   },
   {
-    "categoryTitle": "Simple Utilities",
-    "categoryDescription": "Quick tools to solve everyday problems.",
+    "categoryTitle": "Dashboards",
+    "categoryDescription": "Dashboard playbooks",
     "playbooks": [
       {
-        "id": "static-utility-001",
-        "title": "Recipe Generator",
-        "description": "Generates recipes from ingredients you have.",
+        "id": "dashboard-demo-001",
+        "title": "Dashboard to a skill",
+        "description": "Query dataform dummy json and display on Dashboard",
         "author": "Community",
         "playbookUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/playbooks/utilities/recipe_generator.json"
       }
